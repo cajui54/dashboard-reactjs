@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "email": "maria@marial.com",
+      "type": "user",
+      "name": "Maria Silva",
+      "password": "123456",
+      "status": true,
+      "id": 1
+    },
+    {
+      "email": "jk@gmail.com",
+      "type": "user",
+      "name": "Jakeline Santos",
+      "password": "123",
+      "status": true,
+      "id": 2
+    },
+    {
+      "email": "lukas1980@gmail.com",
+      "type": "lider",
+      "name": "Lukas Machado",
+      "password": "123456789",
+      "status": true,
+      "id": 3
+    },
+    {
+      "email": "anamaria@gmail.com",
+      "type": "adm",
+      "name": "Ana Maria",
+      "password": "123456789",
+      "status": true,
+      "id": 4
+    },
+    {
+      "name": "Maria Lúcia",
+      "type": "lider",
+      "email": "maluci25@gmail.com",
+      "password": "123456",
+      "status": true,
+      "id": 5
+    },
+    {
+      "name": "Joaquim Silva",
+      "email": "joaquim@hotmail.com",
+      "type": "user",
+      "password": "123456",
+      "status": true,
+      "id": 6
+    }
+  ]
+}
